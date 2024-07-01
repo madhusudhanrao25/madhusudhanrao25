@@ -1,5 +1,4 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![snake animation](https://github.com/madhusudhanrao25/madhusudhanrao25/blob/output/github-contribution-grid-snake2.svg)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 <h1 align="center">Hi 👋, I'm Madhusudhan Rao</h1>
@@ -32,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudhanrao25&show_icons=true&locale=en" alt="madhusudhanrao25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanrao25&" alt="madhusudhanrao25" /></p>
+
+![snake animation](https://github.com/madhusudhanrao25/madhusudhanrao25/blob/output/github-contribution-grid-snake2.svg)
