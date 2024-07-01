@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanrao25&" alt="madhusudhanrao25" /></p>
 
-![snake gif](https://github.com/madhusudhanrao25/madhusudhanrao25/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/madhusudhanrao25/madhusudhanrao25/blob/output/github-contribution-grid-snake.svg)
